@@ -1,4 +1,4 @@
-![logo](https://github.com/AhmerMahmood/AhmerMahmood/blob/main/banner_3.png)
+![logo](https://github.com/AhmerMahmood/AhmerMahmood/blob/main/Banner_2.png)
 <h1 align="center">Hi 👋, I'm Ahmer Mahmood</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
