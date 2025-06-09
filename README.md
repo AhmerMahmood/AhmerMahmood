@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Php/Javascript**
+- 🌱 I’m currently learning **Laravel/Javascript**
 
-- 💬 Ask me about **React Js**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **ahmermahmood20@gmail.com**
 - 📫 Personal Portfolio **https://ahmerportfolio.pro/**
