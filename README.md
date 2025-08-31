@@ -11,7 +11,7 @@
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **ahmermahmood20@gmail.com**
-- 📫 Personal Portfolio **https://ahmer.it.com/**
+- 📫 Personal Portfolio **https://ahmer.it.com**
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
